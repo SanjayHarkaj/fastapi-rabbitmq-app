@@ -10,7 +10,7 @@
 #### 1. Clone the Repository:
 ```bash
 git clone <repository_url>
-cd ticket-sales-1-qhevqy
+cd fastapi-rabbitmq-app
 ```
 <br/>
 
